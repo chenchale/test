@@ -1,4 +1,5 @@
 <?php
 
-echo 1;die;
+echo 111;die;
+echo 11;
 ?>
